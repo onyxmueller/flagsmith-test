@@ -1,0 +1,18 @@
+# Example local.properties file for Flagsmith Test App
+# Copy this file to local.properties and update with your values
+#
+# This file contains machine-specific properties for the local machine only.
+# The actual local.properties file should not be checked into Version Control Systems.
+
+# Location of the Android SDK. This is only used by Gradle.
+# For customization when using a Version Control System, please read the
+# header note.
+#sdk.dir=/path/to/android/sdk
+
+# Flagsmith Environment Key
+# Replace with your Flagsmith environment key for local development
+# You can find this in your Flagsmith project settings
+FLAGSMITH_ENVIRONMENT_KEY=your_flagsmith_environment_key_here
+
+# Alternative: You can also set this as an environment variable
+# export FLAGSMITH_ENVIRONMENT_KEY=your_flagsmith_environment_key_here

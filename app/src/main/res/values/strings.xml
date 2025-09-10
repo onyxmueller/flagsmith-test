@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Flagsmith Test</string>
+    <string name="feature_flags_title">Feature Flags</string>
+    <string name="loading">Loading feature flags...</string>
+    <string name="error_loading">Error loading feature flags</string>
+    <string name="enabled">Enabled</string>
+    <string name="disabled">Disabled</string>
+    <string name="value">Value: %s</string>
+    <string name="pull_to_refresh">Pull to refresh feature flags</string>
+</resources>
