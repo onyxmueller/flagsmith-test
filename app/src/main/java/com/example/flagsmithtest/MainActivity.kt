@@ -26,7 +26,8 @@ class MainActivity : ComponentActivity() {
         
         val flagsmith = Flagsmith(
             environmentKey = BuildConfig.FLAGSMITH_ENVIRONMENT_KEY,
-            context = this
+            context = this,
+            enableRealtimeUpdates = true
         )
         
         setContent {
